@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on ~trwnh</title>
+    <link>https://trwnh.com/articles/</link>
+    <description>Recent content in Articles on ~trwnh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://trwnh.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Twitter Is No Longer a Social Network</title>
+      <link>https://trwnh.com/articles/twitter-is-no-longer-a-social-network/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://trwnh.com/articles/twitter-is-no-longer-a-social-network/</guid>
+      <description>“We are not a social network. We do not benefit from social graphs,” Dorsey said. “People come to us when they’re interested in events happening in the world or with a niche interest. We’ve been biasing a lot more of the service towards interest and topics.”
+ Perhaps this is something many of us suspected, as we stared at our timelines, watching them devolve steadily from 2014 onward. But for the first time ever, here it is, in written form, straight from the CEO, staring right back at us.</description>
+    </item>
+    
+  </channel>
+</rss>

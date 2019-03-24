@@ -1,0 +1,36 @@
+baseURL = "https://trwnh.com/"
+languageCode = "en-us"
+title = "~trwnh"
+relativeURLs = true
+
+[permalinks]
+blog = "/:filename/"
+
+[taxonomies]
+tag = "tags"
+
+[params]
+dateFormat = "2 January 2006"
+homeText = "hello **world**."
+
+[menu]
+
+    [[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+    
+    [[menu.main]]
+    name = "articles"
+    url = "/articles"
+    weight = 2
+    
+    [[menu.main]]
+    name = "comments"
+    url = "/comments"
+    weight = 3
+    
+    [[menu.main]]
+    name = "tags"
+    url = "/tags"
+    weight = 4

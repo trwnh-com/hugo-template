@@ -1,0 +1,16 @@
+$linkVisited: lighten( #0066ff, 30%);
+
+:root {
+    --bg: #171717;
+    --text: #ddd;
+    --accent: #06f;
+    --linkVisited: #{$linkVisited};
+}
+
+html {
+    color: var(--text);
+    background: var(--bg);
+}
+
+a {color: var(--accent)}
+a:visited {color: var(--linkVisited)}
